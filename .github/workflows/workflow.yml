@@ -1,4 +1,5 @@
-#workflow for OWASP Baseline Scan
+# workflow for OWASP Baseline Scan
+
 name: SEC488 DAST
 
 # Controls when the action will run. Triggers te workfow on push or pull request
